@@ -3,7 +3,7 @@
 ### Description of Project
 Video streaming using Apache Kafka and OpenCV libraries. The motivation behind the project is the need for effective management and analysis of large-scale video streams generated from sources such as surveillance cameras. Kafka is a distributed message streaming platform that is resilient to node failure and supports automatic recovery. OpenCV is an open-source image processing library designed for real-time applications, including the processing and analysis of images and videos. The project uses Kafka for real-time data acquisition, OpenCV for video rendering, and Flask for the distributed consumer. The video client generates data as a producer, which streams video directly from a webcam in real-time and converts it into a stream of JPEG images.
 ![image](https://user-images.githubusercontent.com/64796657/215673132-da6ff9b4-2c9d-480c-85b2-2661c0290ba2.png)
-![image](https://user-images.githubusercontent.com/64796657/215673910-a41adc31-5e8f-4e7c-87fa-ff49b43d37df.png | width=100)
+![image](https://user-images.githubusercontent.com/64796657/215673910-a41adc31-5e8f-4e7c-87fa-ff49b43d37df.png  width="60%" height="30%")
 
 
 ### References
